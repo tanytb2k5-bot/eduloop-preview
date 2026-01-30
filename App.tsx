@@ -184,5 +184,6 @@ const App: React.FC = () => {
     </div>
   );
 };
+src/components/Mascot.tsx
 
 export default App;
