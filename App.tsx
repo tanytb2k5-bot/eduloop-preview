@@ -14,6 +14,7 @@ import Dashboard from './components/Dashboard';
 import LoginModal from './components/LoginModal';
 import Footer from './components/Footer';
 import { BookListing, User } from './types';
+import Mascot from "./components/Mascot";
 
 // --- MOCK DATA ---
 const MOCK_LISTINGS: BookListing[] = [
