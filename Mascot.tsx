@@ -107,5 +107,7 @@ const Mascot: React.FC<MascotProps> = ({ mood = 'happy', className = "" }) => {
     </div>
   );
 };
+git mv src/components/mascot.tsx src/components/Mascot_temp.tsx
+git mv src/components/Mascot_temp.tsx src/components/Mascot.tsx
 
 export default Mascot;
