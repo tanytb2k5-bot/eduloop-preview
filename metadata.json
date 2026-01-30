@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EduLoop - Tài nguyên Học thuật Tuần hoàn",
+  "description": "Nền tảng hiện đại giúp sinh viên mua, thuê và bán lại giáo trình giáo dục theo mô hình kinh tế tuần hoàn.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
